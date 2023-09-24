@@ -1,0 +1,144 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>坤成中学茶艺学会</title>
+<link rel="stylesheet" href="style.css">
+
+<style>
+body {background-color: #f9f9f9;margin: 0;padding: 0;}
+
+.navbar {background-color: #6D996D;font-family:STXingkai;font-size:20px;overflow: hidden;position: fixed;top: 0;width: 100%;z-index: 1000;}
+
+.navbar a {float: left;display: block;color: white;text-align: center;padding: 14px 16px;text-decoration: none;transition: background-color 0.3s ease;}
+
+.navbar a:hover {background-color: #CEDEBD;color: #000;}
+
+.content {padding: 20px;margin-top: 70px;}
+
+h1 {color: #344e41;font-family:STXinwei;font-size: 100px;text-align: center;}
+
+h2 {color:#ccd5ae;font-family:STXingkai;font-weight:normal;text-align: center;}	
+
+h3 {color: #3a5a40;font-family:STXinwei;font-size: 60px;text-align: center;}		
+
+h4 {color: #606c38;font-size: 40px;font-family:STXingkai;text-align:center;}
+
+h5 {color:#ccd5ae;font-family:STXingkai;font-size:30px;font-weight:normal;text-align: center;} 
+	 
+p {color: #ccc5b9;font-size: 20px;font-family:STKaiti;text-align:center;font-weight: bold;}  
+        
+.activity-list, .achievement-list list-style-type: disc;margin-left: 20px;}
+
+.activity-item, .achievement-item {color: #555;}
+
+.scroll-container {max-height: 100vh;overflow-y: auto;}
+
+table {alignment: center;color: #344e41;border-collapse: collapse;width: 80%;}
+
+th {border: 1px solid #dad7cd;font-family:STXingkai;font-color:#3a5a40;text-align: center;padding: 8px;}
+	
+td {border: 1px solid #dad7cd;font-family:STKaiti;font-color:#6D996D;font-weight:bold;text-align: center;padding: 8px;}
+
+tr:nth-child(even) {background-color: #dad7cd;}
+
+.center {margin-left: auto;margin-right: auto;}
+
+</style>
+</head>
+
+<body>
+
+<div class="navbar">
+<a href="#introduction">简介</a>
+<a href="#history">历史</a>
+<a href="#committee">执委</a>
+<a href="#activities">活动</a>
+<a href="#achievements">成就</a>
+</div>
+
+<div class="scroll-container">
+<section id="introduction" class="content">
+<h1>坤成中学茶艺学会</h1>
+<h2>坤成中学茶艺学会是一个富有活力和创造力的团队，致力于探索和传承茶文化的奥秘。我们的使命是通过茶艺的魅力，将学生们连接在一起，培养他们的领导才能和社交技能。</h2>
+<img src="greentea1.jpg">
+</section>
+
+<section id="history" class="content">
+<h3>历史</h3>
+<h2>坤成中学茶艺学会的历史充满了激情和成就。我们的创始成员在学会初期面临了挑战，但他们坚持不懈地推广中国茶文化。学会逐渐壮大，成为学校内备受欢迎的社团之一。我们的历史充满了茶道的故事，以及学生们的努力和奉献精神。</h2>
+<img src="greentea2.jpg" width="735">
+<img src="greentea3.jpg" width="735">
+</section>
+
+<section id="committee" class="content">
+<h3>执委</h3>
+<table class="center">
+<tr>
+<th>执委</th>
+<th>名字</th>
+<th>职务</th>
+</tr>
+<tr>
+<td>主席</td>
+<td>王暐涵</td>
+<td>代表社团对外交流</td>
+</tr>
+<tr>
+<td>文书</td>
+<td>卓欣仪</td>
+<td>编写茶艺教材</td>
+</tr>
+<tr>
+<td>财政</td>
+<td>杨思颖</td>
+<td>预算及购买茶叶</td>
+</tr>
+<tr>
+<td>康乐</td>
+<td>黄美颖</td>
+<td>带领社团活动</td>
+</tr>
+<tr>
+<td>学术</td>
+<td>邝文娟</td>
+<td>制作茶具</td>
+</tr>
+</table>
+</section>
+
+<section id="activities" class="content">
+<h3>活动</h3>
+<h4>茶艺讲座</h4>
+<p>我们邀请茶艺专家来学校举办讲座，分享茶文化的深刻知识和技巧。</p>
+<img src="tealecture.png" width="735">
+<img src="tealecture1.jpg" width="735">
+<h4>茶园参观</h4>
+<p>我们组织学生前往当地的茶园，亲身体验茶叶的种植和采摘过程。</p>
+<img src="teagarden.jpg" width="735"> 
+<img src="teagarden1.jpg" width="735">           	
+<h4>茶艺展览</h4>
+<p>我们策划并参与学校的艺术展览，展示与茶相关的艺术作品和摄影作品。</p>
+<img src="teaexpo.jpg" width="735">
+<img src="teaexpo1.jpg" width="735">
+<h4>茶艺工作坊</h4>
+<p>学会成员定期组织茶艺工作坊，为其他学生传授茶艺技巧。</p>
+<h4>社区服务</h4>
+<p>我们积极参与社区服务活动，例如在养老院举办茶艺表演和茶会。</p>
+<img src="greentea4.jpg" width="735">
+<img src="greentea7.jpg" width="735">
+</section>
+
+<section id="achievements" class="content">
+<h3>成就</h3>
+<p>荣获国际茶艺比赛金牌奖项，代表学校在全球茶艺舞台上崭露头角。</p>
+<p>建立了坤成茶文化图书馆，为学生提供丰富的茶文化资源。</p>
+<p>启动了茶艺师培训计划，为学生提供专业茶艺认证的机会。</p>
+<p>赢得了学校最受欢迎社团的荣誉，学会会员不断增加。</p>
+<img src="greentea5.jpg" width="700">
+<img src="greentea6.jfif" width="735">
+<h5>-我们坚信，茶艺不仅仅是一门技能，更是一种情感的表达和交流方式。坤成中学茶艺学会将继续努力，以茶为媒介，将学生们聚集在一起，创造更多美好的茶艺时刻，为茶文化的繁荣和传承贡献力量-</h5>
+</section>
+</div>
+</body>
+</html>
+
